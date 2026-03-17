@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-notes-app-back-end",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
